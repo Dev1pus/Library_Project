@@ -1,0 +1,13 @@
+
+*.db
+*.sqlite
+*.sqlite3
+
+backup_*
+
+.DS_Store
+__pycache__/
+*.pyc
+
+*.csv
+*.txt
